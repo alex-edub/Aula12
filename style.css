@@ -1,1 +1,7 @@
-
+body{
+    padding:0;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(1, 41, 1);
+    background-image: yellow;
+}
