@@ -3,5 +3,11 @@ body{
     margin:0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(1, 41, 1);
-    background-image: yellow;
+    background-image: linear-gradient(to left, rgb(187, 196, 188), rgb(18, 68, 37));
 }
+.h1{
+    position: absolute;
+    padding-top: initial;
+    align-items: center;
+}
+
